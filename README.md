@@ -1,4 +1,3 @@
-# Jewellery Desk
 
 **Jewellery Desk** is an offline-first wholesale jewellery billing, QR code scanning, customer ledger, and payment management Android application built with Kotlin, Jetpack Compose, Material 3, Room (SQLite), CameraX, ML Kit Barcode Scanning, and OkHttp/Jsoup.
 
