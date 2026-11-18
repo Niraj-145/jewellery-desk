@@ -1,0 +1,6 @@
+{
+  "name": "Jewellery Desk",
+  "description": "Offline-first wholesale jewellery billing, QR code scanning, customer ledger, and payment tracking application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
